@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-# -----------------------------------------------------------
+# ----------------------------------
 # Python program that:
-# demonstrates how to replace an element from a list at a specific position like in C
+# Shows how to replace an element of a list
 #
 # (C) 2022 Igbinijesu Samuel, Lagos, Nigeria
 # email igbinijesusamuel@gmail.com
-# -----------------------------------------------------------
+# -----------------------------------
 
 
 def replace_in_list(my_list, idx, element):
